@@ -12,7 +12,7 @@
 [![Machine Learning Course 3 Certificate](https://github.com/harsh123536/Certificates/blob/main/Unsupervised%20Learning%2C%20Recommenders%2C%20Reinforcement%20Learning%20Certificate.pdf) 
 
 ### Machine Specialization Certificate
-[![Machine Learning Course 3 Certificate](
+[![Machine Learning Specialization Certificate](
 https://github.com/harsh123536/Certificates/blob/main/Machine%20Learning%20Specialization%20Certificate.pdf) 
 
 ## Deep Learning Specialization
