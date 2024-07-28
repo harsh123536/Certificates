@@ -3,7 +3,7 @@
 ## Machine Learning Specialization
 
 ### Course 1: Supervised Machine Learning: Regression and Classification
-[![Machine Learning Course 1 Certificate](https://github.com/johndoe/certificates/blob/main/ml_course1_certificate.pdf)](https://github.com/johndoe/certificates/blob/main/ml_course1_certificate.pdf)
+[![Machine Learning Course 1 Certificate](https://github.com/harsh123536/Certificates/blob/main/Supervised%20Machine%20Learning%20-%20Regression%20and%20Classification%20certificate.pdf)
 
 ### Course 2: Advanced Learning Algorithms
 [![Machine Learning Course 2 Certificate](https://github.com/johndoe/certificates/blob/main/ml_course2_certificate.pdf)](https://github.com/johndoe/certificates/blob/main/ml_course2_certificate.pdf)
