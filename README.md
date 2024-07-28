@@ -27,10 +27,10 @@ https://github.com/harsh123536/Certificates/blob/main/Machine%20Learning%20Speci
 [![Deep Learning Course 3 Certificate](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)
 
 ### Course 4: Convolutional Neural Networks
-[![Deep Learning Course 3 Certificate](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)
+[![Deep Learning Course 4 Certificate](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)
 
 ### Course 5: Sequence Models
-[![Deep Learning Course 3 Certificate](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)
+[![Deep Learning Course 5 Certificate](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)](https://github.com/johndoe/certificates/blob/main/dl_course3_certificate.pdf)
 
 ### Deep Learning Specialization Certificate
 [![Deep Learning Specialization Certificate](https://github.com/johndoe/certificates/blob/main/dl_specialization_certificate.pdf)](https://github.com/johndoe/certificates/blob/main/dl_specialization_certificate.pdf)
